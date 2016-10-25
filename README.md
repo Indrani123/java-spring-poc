@@ -1,2 +1,2 @@
 # java-with-spring-mysql-poc
-This is sample Java catalog project using spring for connecting to mySQL DB
+This is sample Java project using spring for connecting to DB
